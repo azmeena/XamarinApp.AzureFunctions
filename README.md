@@ -1,0 +1,2 @@
+# AzureFunctions
+# XamarinApp.AzureFunctions
