@@ -1,0 +1,9 @@
+C:\XamarinWithTwilio\ImHere\ImHere.Data\bin\x86\Release\netstandard2.0\ImHere.Data.deps.json
+C:\XamarinWithTwilio\ImHere\ImHere.Data\bin\x86\Release\netstandard2.0\ImHere.Data.dll
+C:\XamarinWithTwilio\ImHere\ImHere.Data\bin\x86\Release\netstandard2.0\ImHere.Data.pdb
+C:\XamarinWithTwilio\ImHere\ImHere.Data\obj\x86\Release\netstandard2.0\ImHere.Data.csprojAssemblyReference.cache
+C:\XamarinWithTwilio\ImHere\ImHere.Data\obj\x86\Release\netstandard2.0\ImHere.Data.csproj.CoreCompileInputs.cache
+C:\XamarinWithTwilio\ImHere\ImHere.Data\obj\x86\Release\netstandard2.0\ImHere.Data.AssemblyInfoInputs.cache
+C:\XamarinWithTwilio\ImHere\ImHere.Data\obj\x86\Release\netstandard2.0\ImHere.Data.AssemblyInfo.cs
+C:\XamarinWithTwilio\ImHere\ImHere.Data\obj\x86\Release\netstandard2.0\ImHere.Data.dll
+C:\XamarinWithTwilio\ImHere\ImHere.Data\obj\x86\Release\netstandard2.0\ImHere.Data.pdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ImHere"
+             x:Class="ImHere.MainPage">
+    <ContentPage.BindingContext>
+        <local:MainViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout Padding="20">
+        <Label Text="Phone numbers to send to:" HorizontalOptions="Start"/>
+        <Editor Text="{Binding PhoneNumbers}" HeightRequest="100"/>
+        <Button Text="Send Location" BackgroundColor="Blue" TextColor="White"
+                Command="{Binding SendLocationCommand}" />
+        <Label Text="{Binding Message}"
+               HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+    </StackLayout>
+</ContentPage>
